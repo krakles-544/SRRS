@@ -1,7 +1,7 @@
 # 🚀 Smart Record Retrieval System (SRRS) - Roadmap & Git Workflow
 
 ## 📌 Project Overview
-The **Smart Record Retrieval System (SRRS)** is a banking records management system featuring AI-powered search, voice commands, OCR for scanned documents, PDF export, and more. Below is our **Git-based development roadmap** to track each feature implementation.
+The **Smart Record Retrieval System (SRRS)** is a records management system featuring AI-powered search, voice commands, OCR for scanned documents, PDF export, and more. Below is our **Git-based development roadmap** to track each feature implementation. In this project, i worked on a banking system.
 
 ---
 
