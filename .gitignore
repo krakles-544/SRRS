@@ -172,3 +172,15 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ignore the srrs virtual environment
+srrs/bin/
+srrs/include/
+srrs/lib/
+srrs/lib64/
+srrs/share/
+srrs/pyvenv.cfg
+
+# Ignore static and media files
+/media/
+staticfiles/
